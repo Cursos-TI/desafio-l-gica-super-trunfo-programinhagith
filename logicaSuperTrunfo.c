@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
+printf("novo commit\n");
 
     // Dados da carta 1
     char estado1[50];
