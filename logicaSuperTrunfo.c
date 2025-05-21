@@ -3,6 +3,7 @@
 int main() {
     // Mensagem inicial
     printf("Bem-vindo ao jogo de Super Trunfo! Vamos comparar duas cidades.\n");
+    printf ("Novo commit\n");
 
     // Dados da carta 1
     char estado1[50];
