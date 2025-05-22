@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <string.h>
-
 int main() {
     // Mensagem inicial
     printf("Bem-vindo ao jogo de Super Trunfo de Cidades!\n");
